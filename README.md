@@ -1,2 +1,3 @@
 # DBMS_Project
 A simple stock trading management application that uses php , mysql , html , css , bootstrap , and javascript.
+![image](https://github.com/aqid98/DBMS_Project/blob/master/DBMS_SE/Screenshots/screenshot1.PNG)
